@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @humbeeone
-- 👀 I’m interested in learning about AI apps and develop an easy way to learn and teah programming
+- 👀 I’m interested in learning about AI apps and develop an easy way to learn and teach programming
 - 🌱 I’m currently studing cpmputer sistems engineering
 - 💞️ I’m looking to collaborate on create movil apps
 - 📫 How to reach me humbertoreveles@gmail.com
